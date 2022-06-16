@@ -39,4 +39,4 @@ OST 01 - Main Game
 17) OST 03 - Extras (Unused / Removed / Bonus songs)
 
 # A Note About Certain songs
-Some songs are here all the way from Toontown Online by Disney, and as such have been marked with a * at the start of the actual title of the songs. For Example, "High Price (*Sellbot Hq: Battle)" is from TTO, and thus have a mark at the start of the actual title for said song.
+Some songs are here all the way from Toontown Online by Disney, and as such have been marked with a * at the start of the actual title of the songs. For Example, "High Price (*Sellbot Hq: Battle)" is from TTO, and thus it has a mark at the start of the actual title for said song.
