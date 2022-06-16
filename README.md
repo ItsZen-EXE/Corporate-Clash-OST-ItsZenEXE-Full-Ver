@@ -4,7 +4,7 @@ This is the Corporate Clash OST with almost all songs ripped directly from the g
 ### That said, I do NOT claim ownership of ANY of these songs, and they are created by Disney and the Corporate Clash team, NOT ME.
 I have personally gone through all the songs and ordered them in a way that makes sense for the soundtrack, and in order of when you would most likely hear said things.
 
-Some songs have unique names, and have the purpose of the song after the title, however all are ordered correctly still in the full album.
+Some songs have unique names (a large majority of which I came up with for fun), and have the purpose of the song after the title, however all are ordered correctly still in the full album.
 
 The Disk number for the songs also separates them somewhat, but not past the main game.
 
