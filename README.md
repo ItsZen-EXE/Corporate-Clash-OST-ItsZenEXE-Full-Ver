@@ -17,7 +17,7 @@ On the main project link (https://github.com/ItsZen-EXE/Corporate-Clash-OST-ItsZ
 
 The songs are ordered as such, and this corresponds with the disk number on each track as well:
 
-OST 01 - Main Game
+### OST 01 - Main Game
 1) Intro
 2) Toontown Central & Toontown Central Miniboss
 3) Barnacle Boatyard & Barnacle Boatyard Miniboss
@@ -33,10 +33,8 @@ OST 01 - Main Game
 13) Drowsy Dreamland
 14) Boardbot Suite
 15) Minigames
-
-16) OST 02 - Various Events (April Toons, Halloween, Christmas, etc.)
-
-17) OST 03 - Extras (Unused / Removed / Bonus songs)
+### 16) OST 02 - Various Events (April Toons, Halloween, Christmas, etc.)
+### 17) OST 03 - Extras (Unused / Removed / Bonus songs)
 
 # A Note About Certain songs
 Some songs are here all the way from Toontown Online by Disney, and as such have been marked with a * at the start of the actual title of the songs. For Example, "High Price (*Sellbot Hq: Battle)" is from TTO, and thus it has a mark at the start of the actual title for said song.
