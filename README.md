@@ -13,6 +13,7 @@ I will be updating this whenever I can as new songs come out for the game, or th
 # How To Download
 
 On the main project link (https://github.com/ItsZen-EXE/Corporate-Clash-OST-ItsZenEXE-Full-Ver) click at near the top of the project where it says "Code," then click "Download Zip". You will download both the OST and this file that way.
+
 # Track Order
 
 The songs are ordered as such, and this corresponds with the disk number on each track as well:
@@ -38,3 +39,5 @@ The songs are ordered as such, and this corresponds with the disk number on each
 
 # A Note About Certain songs
 Some songs are here all the way from Toontown Online by Disney, and as such have been marked with a * at the start of the actual title of the songs. For Example, "High Price (*Sellbot Hq: Battle)" is from TTO, and thus it has a mark at the start of the actual title for said song.
+
+Some songs are also added to the end in OST 03 that are removed from the game at this point.
